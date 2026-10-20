@@ -14,7 +14,7 @@ This repository is a local, lightweight Model Context Protocol (MCP) server that
 
 
 
-## 📅 Project Roadmap & Scope
+## Project Roadmap & Scope
 
 
 
@@ -36,7 +36,7 @@ This repository is a local, lightweight Model Context Protocol (MCP) server that
 
 
 
-## 📂 Intended Repository Structure
+## Intended Repository Structure
 
 
 
@@ -116,7 +116,7 @@ CMPSC445_MCP-Invasive-Species-Identifier/
 
 
 
-## 🛠️ MCP Tools Exposed
+## MCP Tools Exposed
 
 
 
@@ -142,7 +142,7 @@ The MCP server will expose three main tools via `stdio` transport:
 
 
 
-## 🚀 Quickstart & Environment Setup
+## Quickstart & Environment Setup
 
 
 
@@ -208,7 +208,7 @@ python scripts/init_db.py
 
 
 
-## 🧪 Testing
+## Testing
 
 
 
