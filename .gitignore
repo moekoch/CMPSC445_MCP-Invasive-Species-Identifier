@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Data & Models
+data/models/*
+!data/models/.gitkeep
+*.pt
+*.bin
+*.onnx
+*.safetensors
+
+# Local DBs & Logs
+*.db
+*.sqlite
+*.log
